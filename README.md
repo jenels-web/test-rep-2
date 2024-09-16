@@ -1,6 +1,5 @@
 <!--StartFragment-->
 
-
 # **Lesson 1: Blinking an LED, Turning a Servo, and Using an Ultrasonic Distance sensor.**
 
 **Objective**: This lesson will introduce you to basic electronics and programming concepts using C++. You will learn to control an LED, a servo motor, and an ultrasonic distance sensor.
