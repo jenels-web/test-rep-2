@@ -1,5 +1,3 @@
-<!--StartFragment-->
-
 
 # **Lesson 1: Blinking an LED, Turning a Servo, and Using an Ultrasonic Distance sensor.**
 
